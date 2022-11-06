@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainZone.qml</file>
+        <file>ImagePanel.qml</file>
+        <file>BasePanel.qml</file>
+        <file>LoadImageWindow.qml</file>
+        <file>Topmenu.qml</file>
+        <file>LoadButton.qml</file>
+        <file>SliderPanel.qml</file>
+        <file>IconButton.qml</file>
+        <file>Hoverd.qml</file>
+    </qresource>
+</RCC>
